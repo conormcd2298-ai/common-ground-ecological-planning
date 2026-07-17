@@ -1,0 +1,11 @@
+# Local agent and editor state
+.agents/
+.codex/
+.vscode/
+.idea/
+
+# Local development artifacts
+*.log
+.DS_Store
+Thumbs.db
+
